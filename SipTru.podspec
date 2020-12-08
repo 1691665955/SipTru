@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
   spec.ios.deployment_target = '8.0'
   spec.source_files  = "SipTru", "SipTru/*.{h,m}"
-  spec.dependency 'linphone-sdk','~> 4.3'
+  spec.dependency 'linphone-sdk','4.3'
   spec.public_header_files = "SipTru/SipTruManager.h"
 
 end
