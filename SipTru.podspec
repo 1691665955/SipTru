@@ -1,8 +1,9 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SipTru"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "广东触点科技有限公司云对讲库"
+  spec.homepage     = "https://github.com/1691665955/SipTru.git"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author             = { "masterzeng" => "1691665955@qq.com" }
   spec.source       = { :git => "https://github.com/1691665955/SipTru.git", :tag => spec.version }
