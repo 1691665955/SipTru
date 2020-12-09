@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SipTru"
-  spec.version      = "0.0.5"
+  spec.version      = "0.0.6"
   spec.summary      = "广东触点科技有限公司云对讲库"
   spec.homepage     = "https://github.com/1691665955/SipTru.git"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
@@ -12,6 +12,6 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = '9.0'
   spec.source_files  = "SipTru", "SipTru/*.{h,m}"
   spec.dependency 'linphone-sdk','4.3'
-  spec.public_header_files = "SipTru/SipTruManager.h"
+  spec.vendored_frameworks = "SipTru.framework"
 
 end

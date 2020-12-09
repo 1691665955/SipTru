@@ -1,0 +1,6 @@
+framework module SipTru {
+  umbrella header "SipTru.h"
+
+  export *
+  module * { export * }
+}
