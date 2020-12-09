@@ -20,18 +20,6 @@
 		<data>
 		+ZAKkGkEes/gKHkvIG5+VhoJKgo=
 		</data>
-		<key>PrivateHeaders/LinphoneManager.h</key>
-		<data>
-		bdajKO4ytPbVarE015IvEwnBu64=
-		</data>
-		<key>PrivateHeaders/SMLinphoneConfig.h</key>
-		<data>
-		O2gXYkXNjGZwIyIcpfA8QaUa7hs=
-		</data>
-		<key>PrivateHeaders/TDLinphoneManager.h</key>
-		<data>
-		eioVZFCfm+92EuWNsCqokvLsSYk=
-		</data>
 		<key>liblinphone_tester/certificates/altname/agent.pem</key>
 		<data>
 		1PmSMuim1XxTpYMUXTzreA54UWw=
@@ -518,39 +506,6 @@
 			<key>hash2</key>
 			<data>
 			t3B9F3xGwy7X2ngsC+IofIPI247tGO6YGvZC8BuSHnk=
-			</data>
-		</dict>
-		<key>PrivateHeaders/LinphoneManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bdajKO4ytPbVarE015IvEwnBu64=
-			</data>
-			<key>hash2</key>
-			<data>
-			YWEjdKLcWvf7LuTdra5GL9wCZZGfvZ/dQASI+wv4BpQ=
-			</data>
-		</dict>
-		<key>PrivateHeaders/SMLinphoneConfig.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			O2gXYkXNjGZwIyIcpfA8QaUa7hs=
-			</data>
-			<key>hash2</key>
-			<data>
-			nQy4nP+Kjc2SdMHBMC+NJ7uJK6H+swFehLJESC6gi7w=
-			</data>
-		</dict>
-		<key>PrivateHeaders/TDLinphoneManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eioVZFCfm+92EuWNsCqokvLsSYk=
-			</data>
-			<key>hash2</key>
-			<data>
-			ms1Ge4o7rTe4c8+aM0LCrhcvcMZFaEAZ2/lVCSCPVwQ=
 			</data>
 		</dict>
 		<key>liblinphone_tester/certificates/altname/agent.pem</key>
