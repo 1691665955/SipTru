@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		l/a2iVToz5wyjzK7Zb3MLbRjVHI=
+		adaMVcg1oeN/CoFBHjomkPUB2G0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>liblinphone_tester/certificates/cn/cafile.pem</key>
 		<data>
-		a13sb7wGv5Yc9qEOrkwpEqZCVFI=
+		zvhZvwidDpyilMHqFuMREa9wTdM=
 		</data>
 		<key>liblinphone_tester/certificates/cn/openssl-cn.cnf</key>
 		<data>
@@ -633,11 +633,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			a13sb7wGv5Yc9qEOrkwpEqZCVFI=
+			zvhZvwidDpyilMHqFuMREa9wTdM=
 			</data>
 			<key>hash2</key>
 			<data>
-			eGULrwn08X6D7OWTak2vUNH6vWjs4K8uyuJqi1nUKjQ=
+			nV7kybLkvrsHBAvCmMQlsKZQYpI8HUqLH/G+WBN7tCU=
 			</data>
 		</dict>
 		<key>liblinphone_tester/certificates/cn/openssl-cn.cnf</key>
